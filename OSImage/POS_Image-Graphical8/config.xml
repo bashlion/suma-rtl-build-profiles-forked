@@ -14,13 +14,13 @@
 
         <locale>en_US</locale>
         <keytable>us.map.gz</keytable>
-        <timezone>Europe/Berlin</timezone>
+        <timezone>Asia/Kolkata</timezone>
 
         <rpm-excludedocs>true</rpm-excludedocs>
         <!-- add luks="password" attribute below in order to generate encrypted image -->
-        <type filesystem="ext3" image="pxe" initrd_system="dracut" compressed="false"></type>
+        <type filesystem="ext4" image="pxe" initrd_system="dracut" compressed="false"></type>
     </preferences>
-    <users group="root">
+    <users>
       <user home="/root" name="root" password="linux" pwdformat="plain" shell="/bin/bash"/>
     </users>
     <packages type="image">
