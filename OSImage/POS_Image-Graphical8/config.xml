@@ -4,7 +4,7 @@
     <description type="system">
         <author>Admin User</author>
         <contact>sumaadmin@demolabs.com</contact>
-        <specification>SUSE Linux Enterprise 15 SP5 Graphical Image</specification>
+        <specification>SUSE Linux Enterprise 15 SP6 Graphical Image</specification>
     </description>
     <preferences>
         <version>7.3.0</version>
