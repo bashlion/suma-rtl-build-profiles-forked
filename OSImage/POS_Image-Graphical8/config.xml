@@ -132,7 +132,6 @@
         <package name="udev"/>
         <package name="filesystem"/>
         <package name="glibc-locale-base"/>
-        <package name="ca-certificates-mozilla"/>
         <package name="sles-release"/>
     </packages>
 <!--  No packages to delete -->
