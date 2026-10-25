@@ -25,6 +25,7 @@
       <user home="/root" name="root" password="linux" pwdformat="plain" shell="/bin/bash"/>
     </users>
     <packages type="image">
+		<package name="dracut-kiwi-live"/>
         <package name="patterns-base-minimal_base"/>
         <package name="aaa_base-extras"/> <!-- wouldn't be SUSE without that ;-) -->
         <package name="acl"/>
