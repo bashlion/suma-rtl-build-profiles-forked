@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<image schemaversion="7.1" name="POS_Image_sles15sp6base">
+<image schemaversion="7.2" name="POS_Image_sles15sp6base">
     <description type="system">
         <author>Admin User</author>
         <contact>sumaadmin@demolabs.com</contact>
         <specification>SUSE Linux Enterprise 15 SP6 Graphical Image</specification>
     </description>
     <preferences>
-        <version>7.3.0</version>
+        <version>7.4.0</version>
         <packagemanager>zypper</packagemanager>
         <bootsplash-theme>SLE</bootsplash-theme>
         <bootloader-theme>SLE</bootloader-theme>
